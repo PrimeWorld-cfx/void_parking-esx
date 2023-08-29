@@ -26,6 +26,3 @@
 
 <<<<<<< HEAD
 ## [Preview](https://www.youtube.com/watch?v=LVVNtWnibmA)
-=======
-## [Preview](https://www.youtube.com/watch?v=LVVNtWnibmA)
->>>>>>> 704127bdc729bb3be952e108aab3606368de6151
