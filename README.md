@@ -4,7 +4,7 @@
 <div align='center'><h1>A better way to park your vehicles</h1></div>
 
 ## Dependencies
-* [es_extended]([https://github.com/esx-framework/esx_core])
+* [es_extended](https://github.com/esx-framework/esx_core)
 * [ox_lib](https://github.com/overextended/ox_lib)
 * [ox_target](https://github.com/overextended/ox_target)
 * [oxmysql](https://github.com/overextended/oxmysql/releases/tag/v1.9.3)
