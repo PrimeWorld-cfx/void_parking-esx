@@ -24,5 +24,4 @@
 ## Original Creator : darkets - Void Developement
 * https://discord.gg/FDV9K5xstX 
 
-<<<<<<< HEAD
 ## [Preview](https://www.youtube.com/watch?v=LVVNtWnibmA)
