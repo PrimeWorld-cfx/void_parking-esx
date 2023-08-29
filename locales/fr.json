@@ -1,0 +1,9 @@
+{
+    "vehicle_not_found": "Véhicule introuvable",
+    "no_vehicles": "Aucun véhicule ici...",
+    "too_far": "Véhicule trop éloigné",
+    "cant_place": "Vous ne pouvez pas le placer ici",
+    "vehicle_stored": "Véhicule rangé",
+    "depot_err_no_space": "Il n'y a pas d'emplacements disponibles pour sortir votre véhicule ! Revenez plus tard.",
+    "depot_take_out": "Véhicule sorti du dépôt !"
+}
